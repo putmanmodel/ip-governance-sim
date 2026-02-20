@@ -32,3 +32,5 @@ Security note: npm audit reports vulnerabilities in dev-only tooling (eslint dep
 
 ## License
 Creative Commons Attribution-NonCommercial 4.0 International (CC-BY-NC-4.0)
+
+Commercial use requires a separate written license from the author (Stephen A. Putman). Contact: putmanmodel@pm.me
