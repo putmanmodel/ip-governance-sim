@@ -29,3 +29,6 @@ npm run dev
 ```
 
 Security note: npm audit reports vulnerabilities in dev-only tooling (eslint dependency chain). Not executed in production runtime. Intentionally not forcing a breaking ESLint upgrade in this pilot.
+
+## License
+Creative Commons Attribution-NonCommercial 4.0 International (CC-BY-NC-4.0)
