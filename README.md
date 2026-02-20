@@ -26,3 +26,6 @@ https://putmanmodel.github.io/ip-governance-sim/
 ```bash
 npm install
 npm run dev
+```
+
+Security note: npm audit reports vulnerabilities in dev-only tooling (eslint dependency chain). Not executed in production runtime. Intentionally not forcing a breaking ESLint upgrade in this pilot.
