@@ -10,6 +10,13 @@ This is a **static demo** (no backend) meant to illustrate:
 - hard-stop pause protocol,
 - event logging for traceability.
 
+## Paper
+
+The architectural paper for this project is available here:
+
+- Zenodo DOI: https://doi.org/10.5281/zenodo.19208131
+- Repository PDF: [IP Transaction Governance Framework](paper/IP_Transaction_Governance_Framework.pdf)
+
 ## Live Demo
 https://putmanmodel.github.io/ip-governance-sim/
 
